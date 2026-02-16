@@ -1,26 +1,30 @@
-AI-IoT based smart helmet with Frequency based vehicle control - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/11019512
+Research papers:
+
+1. AI-IoT based smart helmet with Frequency based vehicle control - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/11019512
 Citation - S. S. Abdul Syed, I. Karthiga, Preeti, A. Nazreen, A. Sulthana rashya Begam and P. Joy Kirupa, "AI-IoT Based Smart Helmet with Frequency Based Vehicle Control," 2025 International Conference on Computing and Communication Technologies (ICCCT), Chennai, India, 2025, pp. 1-6, doi: 10.1109/ICCCT63501.2025.11019512. 
 keywords: {Vibrations;Head;Fatigue;Acoustics;Road safety;Safety;Convolutional neural networks;Monitoring;Vehicles;Accidents;Smart helmet;IoT;machine learning;LeNet CNN;driver fatigue detection;accident detection;vibration sensor;ultrasonic sensor;blind spot detection},
 
-IoT Based Smart Helmet for Bike Rider Safety - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10394802
+2. IoT Based Smart Helmet for Bike Rider Safety - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10394802
 Citation - V. R. Ch, S. Chegondi, K. Myla, S. Murala, S. S. Myla and D. R. Kalava, "IoT Based Smart Helmet for Bike Rider Safety," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1445-1448, doi: 10.1109/ICECA58529.2023.10394802.
 keywords: {Wireless communication;Head;Motorcycles;Regulation;Safety;Internet of Things;Intelligent sensors;Arduino;Road accidents;Smart helmet;Global positioning system;Bluetooth;Traffic regulations},
 
-Internet of Things (IoT) based Digital Helmet Design and Deployment - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10125847
+3. Internet of Things (IoT) based Digital Helmet Design and Deployment - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10125847
 Citation - B. R. Chandra, M. P. Akshaya, B. Sravani, Y. S. Ashritha and B. K. Pavithra, "Internet of Things (IoT) based Digital Helmet Design and Deployment," 2023 7th International Conference on Trends in Electronics and Informatics (ICOEI), Tirunelveli, India, 2023, pp. 397-404, doi: 10.1109/ICOEI56765.2023.10125847.
 keywords: {Cloud computing;Head;Law enforcement;Tactile sensors;Ignition;Switches;Safety;Cloud blynk 2.0;Global Positioning System (GPS);MQ-3 Sensors;IR Sensor;Liquid Crystal Display (LCD);DC 120V fan;Buzzer;Node MCU-ESP8266},
 
-A Real-Time Development of an Internet of Things (IoT) based Smart Helmet to Identify Road Accidents using Smart Sensors Association - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10940739
+4. A Real-Time Development of an Internet of Things (IoT) based Smart Helmet to Identify Road Accidents using Smart Sensors Association - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10940739
 Citation - P. S. Bharathi, T.Judgi, D.Pradeep, A. T. S, N. Sunheriya and M. Odeh, "A Real-Time Development of an Internet of Things (IoT) based Smart Helmet to Identify Road Accidents using Smart Sensors Association," 2025 International Conference on Electronics and Renewable Systems (ICEARS), Tuticorin, India, 2025, pp. 532-538, doi: 10.1109/ICEARS64219.2025.10940739. 
 keywords: {Head;Accuracy;Road accidents;Computational modeling;Weather forecasting;Real-time systems;Road safety;Time factors;Internet of Things;Intelligent sensors;K Nearest neighbor;Early Flood detection;Decision Tree classifier;Weather forecast;Accuracy;Machine Learning},
 
-An IoT-Based Smart Helmet for Riding Security and Emergency Notification - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10534489
+5. An IoT-Based Smart Helmet for Riding Security and Emergency Notification - https://ieeexplore-ieee-org.egateway.vit.ac.in/document/10534489
 Citation - M. J. Islam, M. N. Pathan, A. Sultana and A. Rahman, "An IoT-Based Smart Helmet for Riding Security and Emergency Notification," 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh, 2024, pp. 1211-1216, doi: 10.1109/ICEEICT62016.2024.10534489. 
 keywords: {GSM;Head;Motorcycles;Prototypes;Real-time systems;Safety;Mobile applications;Accident;IoT;Security;Device;Rider;Helmet;Emergency},
 
 
+Patents:
 
-
+1. US20150032021 - SAFETY MONITORING SYSTEM AND FATIGUE MONITORING APPARATUS AND FATIGUE DETECTING HELMET THEREOF - https://patentscope.wipo.int/search/en/detail.jsf?docId=US130253801&_cid=P12-MLPGGE-49991-1
+Abstract: A fatigue monitoring apparatus includes a fatigue detecting helmet. The fatigue detecting helmet includes a cap, a first electrode, a second electrode, a fatigue computation device and a power supply. The first electrode is disposed in the cap to contact a head, thereby obtaining a first physiological information. The second electrode is positioned out of the cap to contact the head, thereby obtaining a second physiological information. The fatigue computation device and the power supply are disposed on the cap. The fatigue computation device includes a brainwave computation module and a fatigue judgment module. The brainwave computation module is electrically connected to the first and second electrodes for obtaining a brainwave information based on the first and second physiological information. The fatigue judgment module is electrically connected to the brainwave computation module for obtaining a fatigue information based on the brainwave information.
 
 
 
